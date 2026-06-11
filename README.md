@@ -52,5 +52,5 @@ A aplicação funciona como uma camada isolada de Business Intelligence (BI). El
 
 1. Clonar o repositório:
 ```bash
-git clone [https://github.com/TEU_USUARIO/music-school-analytics.git](https://github.com/TEU_USUARIO/music-school-analytics.git)
+git clone [https://github.com/brunomoura88/music-school-analytics](https://github.com/brunomoura88/music-school-analytics)
 cd music-school-analytics
